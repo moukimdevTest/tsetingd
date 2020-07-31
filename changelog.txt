@@ -1,0 +1,4 @@
+Date   : 16 June, 2020
+Version: 1.5 
+========================
+1. Twelve new homepage added

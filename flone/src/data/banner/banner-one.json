@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/work/photo-1.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/work/photo-2.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": "/shop-grid-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/work/photo-3.jpg",
+    "title": "",
+    "subtitle": "",
+    "price": "",
+    "link": "/shop-grid-standard"
+  }
+]

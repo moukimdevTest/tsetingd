@@ -1,0 +1,26 @@
+{
+  "name": "rest-api-send-repport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon ./app.js",
+    "seed": "cross-env DB_ENABLE_LOGGING=true node './seed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "cross-env": "^5.2.0",
+    "express": "^4.16.3",
+    "express-validator": "^6.5.0",
+    "morgan": "^1.9.0",
+    "nodemailer": "^6.4.10",
+    "promise.prototype.finally": "^3.1.0"
+  }
+}

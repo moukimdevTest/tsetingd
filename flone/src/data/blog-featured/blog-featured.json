@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/img/blog/blog-1.jpg",
+    "category": ["lifestyle", "men"],
+    "title": "Textile",
+    "url": "./assets/pdf/Hotel_Supply_Catalog.pdf",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 2,
+    "image": "/assets/img/blog/blog-2.jpg",
+    "category": ["lifestyle"],
+    "title": "Amenities",
+    "url": "/assets/",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 3,
+    "image": "/assets/img/blog/blog-3.jpg",
+    "category": ["lifestyle"],
+    "title": "Clinic equipments",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 4,
+    "image": "/assets/img/blog/blog-3.jpg",
+    "category": ["lifestyle"],
+    "title": "Medical devices",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 5,
+    "image": "/assets/img/blog/blog-3.jpg",
+    "category": ["lifestyle"],
+    "title": "Electronics",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  },
+  {
+    "id": 6,
+    "image": "/assets/img/blog/blog-3.jpg",
+    "category": ["lifestyle"],
+    "title": "General equipments",
+    "url": "/blog-details-standard",
+    "author": "Admin",
+    "authorUrl": "/blog-standard"
+  }
+]
